@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+<img src="https://media.discordapp.net/attachments/1024340750453981234/1024658105222570107/Mimu1.png?width=936&height=936">
 </p>
 <p align="center">
     methirat
